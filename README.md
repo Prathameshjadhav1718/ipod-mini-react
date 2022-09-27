@@ -1,6 +1,6 @@
 # ipod-mini-react
 
-LINK OF THE PROJECT : https://prathameshjadhav1718-ipod-mini-react-iol5.vercel.app/
+PROJECT LINK : https://prathameshjadhav1718-ipod-mini-react-iol5.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
